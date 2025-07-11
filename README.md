@@ -16,13 +16,13 @@ The dataset used contains detailed information on multiple marketing campaigns.
 
 <a href="https://github.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/blob/main/adidos_campaign.csv">CSV Dataest</a>
 
-<a href="https://github.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/blob/main/Adidos%20%20Power%20BI%20Visualization.pbix">Data Visualization Process Using Power BI</a>
-
 ##  🛠️ Power BI for Visualization
 Power BI was used for:
 Data cleaning and transformation using Power Query.
 Creating interactive dashboards to visualize campaign performance metrics across different dimensions (channel, location, audience segment, and time).
 Drill-down features for detailed analysis by customer segment or campaign type.
+
+<a href="https://github.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/blob/main/Adidos%20%20Power%20BI%20Visualization.pbix">Data Visualization Process Using Power BI</a>
 
 ##    📌 Key KPI Questions Analyzed:
 1. Which campaign type delivers the highest ROI?
