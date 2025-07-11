@@ -14,7 +14,7 @@ Through data-driven insights, we aim to answer critical questions such as:
 ##  📊 Data Source
 The dataset used contains detailed information on multiple marketing campaigns.
 
-<a href="https://raw.githubusercontent.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/refs/heads/main/adidos_campaign.csv">CSV Dataest</a>
+<a href="https://github.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/blob/main/adidos_campaign.csv">CSV Dataest</a>
 
 <a href="https://github.com/Natty-p/marketing-campaign-dataset-analysis-using-Power-BI/blob/main/Adidos%20%20Power%20BI%20Visualization.pbix">Data Visualization Process Using Power BI</a>
 
