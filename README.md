@@ -34,6 +34,10 @@ Drill-down features for detailed analysis by customer segment or campaign type.
 7. Which region or channel drives the most impressions but low conversion?
 8. What is the most cost-efficient campaign?
 
+##   Dashboard
+   <img width="1433" height="831" alt="Adidos Campaign Dashboard" src="https://github.com/user-attachments/assets/ad23c26c-7ee3-4512-9f75-c3fec31a292d" />
+
+
 ##  📈 Findings
 Based on Power BI visualizations and analysis:
 1. Email campaigns showed higher ROI and conversion rates, especially among older demographics.
